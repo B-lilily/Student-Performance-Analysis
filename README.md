@@ -9,7 +9,7 @@ The goal of this analysis is to **explore relationships between these attributes
 Through this process, we aim to identify key trends, correlations, and patterns that can inform educational strategies and student support initiatives.
 
 This analysis was conducted and visualized by the user.  
-You can view the complete code and results in the notebook: **[`student_performance_analysis.ipynb`](./student_performance_analysis.ipynb)**
+You can view the complete code and results in the notebook: **[`Student_performance_analysis.ipynb`](./Student_performance_analysis.ipynb)**
 
 ## Dataset Description
 
