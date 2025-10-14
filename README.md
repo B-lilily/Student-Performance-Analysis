@@ -9,7 +9,7 @@ The goal of this analysis is to **explore relationships between these attributes
 Through this process, we aim to identify key trends, correlations, and patterns that can inform educational strategies and student support initiatives.
 
 This analysis was conducted and visualized by the user.  
-You can view the complete code and results in the notebook: **[`student-score-analysis.ipynb`](./student-score-analysis.ipynb)**
+You can view the complete code and results in the notebook: **[`student_performance_analysis.ipynb`](./student_performance_analysis.ipynb)**
 
 ## Dataset Description
 
@@ -63,7 +63,7 @@ The code in this notebook performs exploratory data analysis on the student perf
 The code's purpose is to load the dataset, perform basic data exploration and visualization, and highlight these descriptive statistics and distributions to help understand the characteristics of the student population and their academic profiles.
 
 ## Summary:
-**Full report with graphs and visualizations can be found in:**  **[`Student-Score-Summary.pdf`](./Student-Score-Summary.pdf)**
+**Full report with graphs and visualizations can be found in: Student-Score-Summary.pdf**
 
 Data Analysis Key Findings
 *  The dataset contains 2000 rows and 17 columns, including student demographics, academic performance in seven subjects, self-study hours, career aspirations, and participation in part-time jobs and extracurricular activities.
